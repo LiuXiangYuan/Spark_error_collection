@@ -1,0 +1,2 @@
+# Spark_error_collection
+整理相关spark报错信息
